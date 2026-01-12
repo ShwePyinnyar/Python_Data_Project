@@ -2,11 +2,11 @@
 
 # 1. The 5 most demanded skills for Top 3 most demanded jobs.
 
-![visualization of 5 most demanded skills for Top 3 most demanded jobs](3_project\images\most_demanded_skills_for_top3_jobs.png)
+![visualization of 5 most demanded skills for Top 3 most demanded jobs](3_project/images/most_demanded_skills_for_top3_jobs.png)
 
 As we can see here, python and sql are one of the most common skills if we want to do data jobs.
 
-source here: [2_skill_demand](3_project\2_skill_demand.ipynb)
+source here: [2_skill_demand](3_project/2_skill_demand.ipynb)
 
 # The insights
 1. We should really learn sql if we want to work a data job. We have at least 50% chance to meet the required skill for each job application like that.
@@ -29,8 +29,8 @@ df_DA_US_pivot
 ```
 Visualization
 
-![Job skill trend percentage](3_project\images\job_skill_trend_percentage.png)
-Source: [3_skill_trend](3_project\3_skill_trend.ipynb)
+![Job skill trend percentage](3_project/images/job_skill_trend_percentage.png)
+Source: [3_skill_trend](3_project/3_skill_trend.ipynb)
 
 # The Insights
 
@@ -58,7 +58,7 @@ plt.show()
 ```
 The result:
 
-![Salary Distribution for Data Jobs](3_project\images\salary_dist_for_data_jobs.png)
+![Salary Distribution for Data Jobs](3_project/images/salary_dist_for_data_jobs.png)
 
 # The Insights
 
@@ -68,7 +68,7 @@ The result:
 
 # 5. Skill Demand vs Salary(median)
 
-![Demand vs Salary Scatter Plot](3_project\images\skill_demand_vs_salary.png)
+![Demand vs Salary Scatter Plot](3_project/images/skill_demand_vs_salary.png)
 
 # The Insights
 1. There are no clear cut skill that clearly pay the most and is the most demanded.
