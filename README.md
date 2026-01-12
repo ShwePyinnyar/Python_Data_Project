@@ -78,4 +78,4 @@ The result:
 # TLDR
 Learn Sql and Python if you want a data related job.
 
-
+Finished date 12/1/2026
